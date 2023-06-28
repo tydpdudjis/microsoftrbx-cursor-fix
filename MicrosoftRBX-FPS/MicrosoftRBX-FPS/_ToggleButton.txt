@@ -1,1 +1,1 @@
-INSERT
+RIGHT_BRACKET ( ] )
